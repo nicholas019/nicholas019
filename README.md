@@ -1,5 +1,5 @@
-목표 : Backend개발자
-WECODE 33기 
+WECODE 33기  <br>
+b
 
 <!---
 nicholas019/nicholas019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
