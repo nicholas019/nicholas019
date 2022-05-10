@@ -1,5 +1,5 @@
 WECODE 33기  <br>
-b
+backend deverloper
 
 <!---
 nicholas019/nicholas019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
