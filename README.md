@@ -12,6 +12,9 @@
   <a href="sorkihg@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sorkihg@gmail.com)](mailto:sorkihg@gmail.com)
+
 ***
 
 <p>Skills & Tools</p>
