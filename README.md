@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnicholas019%2Fnicholas019&count_bg=%23374B28&title_bg=%23847C7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <a herf="https://velog.io/@nichol"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a herf="sorkihg@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@nichol"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="sorkihg@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
 ***
