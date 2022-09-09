@@ -27,10 +27,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </section>
+
 ### DB
 <section>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
 </section>
+
 ### Tools
 <section>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/>
