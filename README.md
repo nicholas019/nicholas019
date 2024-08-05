@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/slack-4A154B.svg?&style=flat-square&logo=slack&logoColor=white"/>    
   
 </section>
 
