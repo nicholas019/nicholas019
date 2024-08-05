@@ -46,6 +46,7 @@
 
 ### Tools
 <section>
+  <img alt="Python" src ="https://img.shields.io/badge/jetbrains-001E59.svg?&style=flat-square&logo=jetbrains&logoColor=white"/>    
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
