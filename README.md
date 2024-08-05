@@ -20,10 +20,18 @@
 
 ### Backend
 <section>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?logo=Django&logoColor=white"/>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?logo=Django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+    <img alt="Python" src ="https://img.shields.io/badge/fastapi-009688.svg?&style=flat-square&logo=fastapi&logoColor=white"/>  
+  </p>
+  <p>
+    <img alt="Python" src ="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=flat-square&logo=kotlin&logoColor=white"/>    
+    <img alt="Python" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white"/>  
+  </p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </section>
@@ -31,6 +39,9 @@
 ### DB
 <section>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/postgresql-4169E1.svg?&style=flat-square&logo=postgresql&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+
 </section>
 
 ### Tools
@@ -40,6 +51,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  
 </section>
 
   
