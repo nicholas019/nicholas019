@@ -2,7 +2,7 @@
 <p >
 <h2> :wave: Welcome </h2>
 <h3> Hi I'm "Nicholas Im"</h3>
-<p>Junior Backend Developer. :seedling:</p>
+<p>Backend Developer. :seedling:</p>
 
 
 
